@@ -1,0 +1,10 @@
+.gradle/
+build/
+target/
+.idea/
+.DS_Store
+
+*.class
+*.log
+
+src/main/resources/application.properties
