@@ -179,7 +179,7 @@ spring.jpa.hibernate.ddl-auto=update
 ## Links
 
 - GitHub: https://github.com/hyewony-dev/growme
-- Project documentation: To be added
+- Project documentation: [GrowMe_Hyewon.pdf](GrowMe_Hyewon.pdf)
 - Presentation slides: To be added
 
 ## Author
